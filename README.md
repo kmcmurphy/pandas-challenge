@@ -1,4 +1,6 @@
-# pandas-challenge
+# Pandas Challenge / PySchool Challenge
+
+In this notebook, different public and private schools are compared against each other on a number of factors, including population, budget, spend-per-student and standardized test results. The analysis of the data, showed the following:
 
 * Charter schools had a lower population and lower spend per student, but performed significantly better than the public schools.
 
